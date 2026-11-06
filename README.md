@@ -40,3 +40,20 @@ Učební materiály najdeš na [Wikipedii](https://www.wikipedia.org/).
 Své poznámky můžeš ukládat na [Google Drive](https://drive.google.com/).
 
 ![Student při přípravě na zkoušku](images/studying.jpg)
+
+# Planovani uceni
+
+hodiny = 3
+prestávka = 15
+
+print("Dnes se budeme učit", hodiny, "hodiny.")
+print("Nezapomeň na přestávky!")
+
+## Způsoby učení
+
+| Způsob | Výhoda | Nevýhoda |
+|---|---|---|
+| Čtení poznámek | Jednoduché | Může být nudné |
+| Videa | Názorné | Zabírají čas |
+| Procvičování | Lepší zapamatování | Vyžaduje čas |
+| Učení s kamarádem | Vzájemná pomoc | Možné rozptylování |
