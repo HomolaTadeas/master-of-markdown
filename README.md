@@ -38,3 +38,5 @@ Návod na přežití zkouškového období
 Učební materiály najdeš na [Wikipedii](https://www.wikipedia.org/).
 
 Své poznámky můžeš ukládat na [Google Drive](https://drive.google.com/).
+
+![Student při přípravě na zkoušku](images/studying.jpg)
