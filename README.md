@@ -19,8 +19,6 @@ Návod na přežití zkouškového období
 
 *Nikdy nepodceňuj přípravu.*
 
-~~Učit se všechno poslední večer je skvělý nápad.~~
-
 ## Co potřebuji ke zkoušce?
 
 - Sešit a poznámky
