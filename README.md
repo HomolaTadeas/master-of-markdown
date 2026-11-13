@@ -58,8 +58,3 @@ print("Nezapomeň na přestávky!")
 | Procvičování | Lepší zapamatování | Vyžaduje čas |
 | Učení s kamarádem | Vzájemná pomoc | Možné rozptylování |
 
-id,nazev,autor,rok_vydani,dostupna
-1,Malý princ,Antonie de Saint-Exupéry,1943,ano
-2,Hobbit,J.R.R Tolkien,1937,ano
-3,"Já, robot",Isaac Asimov,1950,ne
-4,Harry Potter,J.K. Rowling,1997, ano
