@@ -1,0 +1,16 @@
+
+{
+  "jmeno": "Petr Novak",
+  "vek": 16,
+  "je_plnolety": false,
+  "poznamka": null,
+  "adresa": {
+    "mesto": "Ostrava",
+    "ulice": "Hlavni 25"
+  },
+  "konicky": [
+    "fotbal",
+    "počítačové hry",
+    "hudba"
+  ]
+}
